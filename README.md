@@ -34,6 +34,8 @@
 
 <h1> Third Level </h1>
 <br>
+<h2> In This level Each question should solve in 10 sec </h2>
+<br>
 
 ![Capture](images/6.jpg)
 <br>
