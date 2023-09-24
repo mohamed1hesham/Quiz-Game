@@ -24,27 +24,16 @@
 <br>
 
 
-<h1> First </h1>
+<h1> Second Level </h1>
 <br>
-
-![Capture](images/4.jpg)
-<br>
-
-<h1> Cart </h1>
+<h2> This level Each question should solve in 20 sec </h2>
 <br>
 
 ![Capture](images/5.jpg)
 <br>
 
-
-<h1> Firebase </h1>
+<h1> Third Level </h1>
 <br>
 
-
-![Capture](images/11.png)
+![Capture](images/6.jpg)
 <br>
-
-![Capture](images/12.png)
-<br>
-
-
